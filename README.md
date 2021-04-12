@@ -1,2 +1,2 @@
 # STORI-Challange
-Data Science Challenge
+ Answers of Stori Data Science Challenge
